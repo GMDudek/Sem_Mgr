@@ -4,7 +4,5 @@ Prowadzący: prof. dr hab. inż. Grzegorz Dudek, grzegorz.dudek@wmii.uni.lodz.pl
 
 <a href="https://github.com/GMDudek/Sem_Mgr/blob/main/Seminarium magisterskie.pdf">Seminarium magisterskie prezentacja</a>
 
-<a href="https://github.com/GMDudek/Sem_Mgr/blob/main/Plan pracy.pdf">Przykładowy plan pracy</a>
-
 <a href="https://github.com/GMDudek/Sem_Mgr/blob/main/Tematy prac dyplomowych mgr.pdf">Tematy prac dyplomowych</a>
 
